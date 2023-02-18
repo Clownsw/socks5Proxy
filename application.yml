@@ -1,0 +1,5 @@
+listenType: tcp
+listenInfo: 127.0.0.1:8000
+userInfo:
+  - userName: admin
+    passWord: 123123
